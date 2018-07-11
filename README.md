@@ -33,3 +33,15 @@ If you don’t have experience with audio or video recording and publishing, don
 ## Support
 Facebook Support Group for sharing questions, progress, etc.
 On twitter, add hashtag #awesomeblogchallenge to share your progress and support your fellow bloggers.
+
+## The Story Behind ABC
+Hi, I'm [Gedaly](https://gedaly.com) and I initally created the Awesome Blog Challenge as a way to build the blog for my web design services. I was blogging regularly but I wanted to ramp things up. So I decided I'd do publish 30 posts in 30 days and promote as much as I could.
+
+### What Happened?
+Since I was publishing every day and sharing on my social networks, my friends and followers got a real good idea of what I know. There it was in their feed, a reminder that I know something about web marketing.
+
+So I was top of mind... so my referrals increased.
+I got more traffic to my site.
+Lots more content meant more search traffic.
+I had plenty of content to share on my email newsletter.
+And I learned a ton.
