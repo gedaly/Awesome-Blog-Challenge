@@ -1,8 +1,35 @@
 Welcome to the 🦄magical homepage for the Awesome Blog Challenge! (aka: ABC)
 
 ## ❓What is it?
-A challenge to publish & promote 30 pieces of content in 30 days, on a blog you own.
-Can be written articles, audio/podcast, or video.
+Awesome Blog Challenge is:
+**A challenge to publish & promote 30 pieces of content in 30 days, on a blog you own.**
+
+Let's break it down...
+
+### A Challenge
+It's called a challenge because it's not easy. It requires discipline, effort, endurance, and courage. If you choose to accept this challenge, you will find struggles along the way. You will also find it extremely rewarding.
+
+### Publish
+Not just a draft, or an idea... actually click the publish button and send it to the internet.
+This can be scary, but that's why we call it a challenge.
+
+### Promote
+Ok it's live... but the next step is to make sure that people actually know about it!
+This is a two part process:
+* Make a public post on your social networks (Facebook & Twitter)
+* Send a private message (Email, FB messenger, Twitter DM, etc) to at least 2 people who would benefit from/enjoy your post
+
+### 30 Pieces of Content
+Choose written, audio, or video.
+I recommend written since it's easiest.
+Keep it simple!
+
+### 30 Days
+Publish & Promote one every. single. day.
+You can create 10 pieces of content in a day if you want, but publishing and promoting every day is important.
+
+### On A Blog You Own
+This is not submitting 30 articles to an online magazine. This is about publishing on a blog you control so that you can guarantee it gets published... to build your authority and your audience.
 
 ## 🐒Why do one? What will it do for me?
 Very quickly establishes your authority and credibility in a topic. Great way to get started with a new business or to ramp up your marketing for an existing business.
