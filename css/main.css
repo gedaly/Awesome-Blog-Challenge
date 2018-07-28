@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    width: 650px;
+    max-width: 650px;
     margin: auto;
 }
 
@@ -102,7 +102,7 @@ blockquote::after {
 @media (min-width: 768px) {
     body {
         font-size: 1.1rem;
-        width: 700px;
+        max-width: 700px;
         padding-left: 1rem;
         padding-right: 1rem;
     }
@@ -112,7 +112,7 @@ blockquote::after {
 @media (min-width: 1080px) {
     body {
         font-size: 1.2rem;
-        width: 750px;
+        max-width: 750px;
     }
 
 }
